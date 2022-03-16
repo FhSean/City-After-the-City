@@ -317,8 +317,8 @@
     "m_StageCapability": 2,
     "m_Value": {
         "x": 1.0,
-        "y": 0.6851456165313721,
-        "z": 0.014150917530059815
+        "y": 0.5087233781814575,
+        "z": 0.0
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -345,7 +345,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Metallic",
     "m_StageCapability": 2,
-    "m_Value": -3.1600000858306886,
+    "m_Value": -50.939998626708987,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -395,7 +395,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Occlusion",
     "m_StageCapability": 2,
-    "m_Value": -1.3899999856948853,
+    "m_Value": -4.670000076293945,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
@@ -840,7 +840,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Smoothness",
     "m_StageCapability": 2,
-    "m_Value": -23.989999771118165,
+    "m_Value": 2.799999952316284,
     "m_DefaultValue": 0.5,
     "m_Labels": []
 }
@@ -1143,8 +1143,8 @@
     },
     "m_Color": {
         "color": {
-            "r": 3.7426249980926515,
-            "g": 1.4686906337738038,
+            "r": 4.5253119468688969,
+            "g": 1.2203540802001954,
             "b": 0.0,
             "a": 0.0
         },
@@ -1167,7 +1167,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 2.0799999237060549,
+    "m_Value": 1.100000023841858,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
